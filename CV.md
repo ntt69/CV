@@ -1,5 +1,8 @@
 Nenad Trickovic
 
+<ntrile@gmail.com>
+<https://www.linkedin.com/in/nenadtrickovic/>
+
 Eligibility: Authorized to work in Switzerland (Swiss C permit)
 Residence: Canton de Vaud, Switzerland
 
