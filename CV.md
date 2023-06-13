@@ -2,7 +2,8 @@ Nenad Trickovic
 
 <ntrile@gmail.com>
 [LinkedIn](https://www.linkedin.com/in/nenadtrickovic)
-Mob., Viber [123-456-7890](tel:1234567890)
+
+[Mob., Viber] +41789421307
 
 Eligibility: Authorized to work in Switzerland (Swiss C permit)
 Residence: Canton de Vaud, Switzerland
@@ -151,14 +152,6 @@ Role: BSCS
 
 Telekom Serbia - Jan92 - Dec97
 
-Role: BSCS
 
-* Worked on BSCS (Business Support and Control System) for 5 years. BSCS is a billing system for mobile operators. BSCS is a product of LHS, Germany.
-* Extensively used Oracle PL/SQL to complete these tasks.
 
-Telekom Serbia - Jan88 - Dec91
 
-Role: Payroll
-
-* Worked on Payroll system for 4 years. Payroll is a product of Oracle, USA.
-* Extensively used Oracle PL/SQL to complete these tasks.
