@@ -1,7 +1,8 @@
 Nenad Trickovic
 
 <ntrile@gmail.com>
-<https://www.linkedin.com/in/nenadtrickovic/>
+[LinkedIn](https://www.linkedin.com/in/nenadtrickovic)
+Mob., Viber [123-456-7890](tel:1234567890)
 
 Eligibility: Authorized to work in Switzerland (Swiss C permit)
 Residence: Canton de Vaud, Switzerland
